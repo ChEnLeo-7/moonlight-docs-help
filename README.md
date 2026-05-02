@@ -1,2 +1,2 @@
 # Moonlight Documentation
-This repository is the home of [our wiki](https://testipv6.cn/).
+## 这是一个无用的Fork，用于救急[IPv6](https://17nas.com/ipv6-test.php)
