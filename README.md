@@ -1,2 +1,2 @@
 # Moonlight Documentation
-This repository is the home of [our wiki](https://github.com/moonlight-stream/moonlight-docs/wiki).
+This repository is the home of [our wiki](http://v6.666666.host:66/ip).
